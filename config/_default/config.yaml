@@ -8,7 +8,7 @@ title: Quarto TU Dublin # Website name
 baseurl: 'https://quarto-course.netlify.app/' # Website URL
 copyright: '© {2022} Eugene Hickey' # Footer text, e.g. '© {year} Me'
 
-############################
+#############################
 ## LANGUAGE
 ############################
 
