@@ -1,36 +1,36 @@
 ---
 # Display name
-title: Bernhard Bieri
+title: Eugene Hickey
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Master's Student in International Economics
+role: Lecturer in Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Graduate Institute of International and Development Studies Geneva
-  url: https://www.graduateinstitute.ch/Homepage
+- name: Technological University Dublin
+  url: https://www.tudublin.ie
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied microeconomics, development economics and statistical computing.
+bio: My research interests include astrophysics, neuroscience, and statistical computing.
 
 # Interests to show in About widget
 interests:
-- Applied Microeconomics
-- Development Economics
-- Microeconometrics
+- Astrophysics
+- Neuroscience
+- Statistical Computing
 
 # Education to show in About widget
 education:
   courses:
-  - course: MA in International Economics
-    institution: Graduate Institute of International and Development Studies Geneva
-    year: Ongoing
-  - course: BSc in Economics
-    institution: HEC Lausanne, University of Lausanne
-    year: 2020
+  - course: BSc Experimental Physics
+    institution: Trinity College Dublin
+    year: 1987
+  - course: PhD Materials Science
+    institution: Universite de Bordeaux I
+    year: 1992
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,16 +39,16 @@ education:
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/bieri_bernhard
+  link: https://twitter.com/eugene100hickey
 - icon: orcid  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://orcid.org/0000-0001-5943-9059
+  link: https://orcid.org/0000-0001-9813-9323
 - icon: github
   icon_pack: fab
-  link: https://github.com/BBieri
+  link: https://github.com/eugene100hickey
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/bernhard-bieri/
+  link: https://www.linkedin.com/in/eugene-hickey-769b2b1/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
